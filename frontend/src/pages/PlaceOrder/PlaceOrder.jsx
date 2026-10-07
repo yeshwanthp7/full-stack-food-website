@@ -34,13 +34,13 @@ const PlaceOrder = () => {
     const placeOrder = async (e) => {
         e.preventDefault()
         let orderItems = [];
-        food_list.map(((item) => {
+        (food_list || []).forEach((item) => {
             if (cartItems[item._id] > 0) {
-                let itemInfo = item;
+                let itemInfo = { ...item };
                 itemInfo["quantity"] = cartItems[item._id];
                 orderItems.push(itemInfo)
             }
-        }))
+        });
         let orderData = {
             address: data,
             items: orderItems,

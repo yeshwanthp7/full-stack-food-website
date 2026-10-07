@@ -92,7 +92,7 @@ This platform improves:
 - Event Crowd Handling  
 
 
-## Live Demo
-Frontend: [frontend ](https://full-stack-food-website-sooty.vercel.app/)
-Admin Panel: [your-admin-link  ](https://full-stack-food-website-h27r.vercel.app/)
-Backend API: [your-render-link](https://full-stack-food-website.onrender.com)
+## Live Demo Links
+- 🌐 **Customer / User Website**: [https://full-stack-food-website-sooty.vercel.app/](https://full-stack-food-website-sooty.vercel.app/)
+- ⚙️ **Admin Dashboard**: [https://full-stack-food-website-h27r.vercel.app/](https://full-stack-food-website-h27r.vercel.app/)
+- 🚀 **Backend API**: [https://full-stack-food-website.onrender.com](https://full-stack-food-website.onrender.com)

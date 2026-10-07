@@ -6,7 +6,7 @@ const stripe = new Stripe(process.env.STRIPE_SECRET_KEY);
 //config variables
 const currency = "usd";
 const deliveryCharge = 50;
-const frontend_URL = 'https://full-stack-food-website.onrender.com';
+const frontend_URL = process.env.FRONTEND_URL || 'https://full-stack-food-website.onrender.com';
 
 // Placing User Order for Frontend using stripe
 const placeOrder = async (req, res) => {
