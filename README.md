@@ -7,6 +7,13 @@ This system allows users to place food orders digitally, make payments online, a
 
 ---
 
+## 🔗 Live Deployed Links
+- 🌐 **User / Customer Web App**: [https://full-stack-food-website-sooty.vercel.app/](https://full-stack-food-website-sooty.vercel.app/)
+- ⚙️ **Admin Dashboard**: [https://full-stack-food-website-h27r.vercel.app/](https://full-stack-food-website-h27r.vercel.app/)
+- 🚀 **Backend API**: [https://full-stack-food-website.onrender.com](https://full-stack-food-website.onrender.com)
+
+---
+
 ## Problem Statement
 At physical events and crowded food stalls, customers often experience:
 - Long waiting queues  
